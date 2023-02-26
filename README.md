@@ -1,5 +1,5 @@
-<script>
-  .typewriter h1 {
+<style>
+  .typewriter {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -21,7 +21,7 @@
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
-  </script>
+  </style>
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div class="typewriter">
