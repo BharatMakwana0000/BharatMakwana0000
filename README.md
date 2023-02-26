@@ -1,10 +1,10 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
-      <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100px"/>
+      <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100px; width:80px"/>
       <div align="center" width="90%">
         <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif"/>
       </div>
-      <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100px"/>
+      <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100px;width:80px"/>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif"/>
 <h3 align="center">A passionate React-Native developer from India.</h3>
 
