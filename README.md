@@ -1,5 +1,7 @@
+![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <h1 align="center">Hi 👋, I'm BHARAT MAKWANA</h1>
+![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <h3 align="center">A passionate React-Native developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatmakwana0000&label=Profile%20views&color=0e75b6&style=flat" alt="bharatmakwana0000" /> </p>
