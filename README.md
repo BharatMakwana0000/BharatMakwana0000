@@ -1,7 +1,7 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
 <div>
-<img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif"/>
+<img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100%"/>
 <div align="center">
 <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(10).gif"/>
 </div>
