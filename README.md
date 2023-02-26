@@ -1,6 +1,6 @@
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gif)
 ![image](https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif)
-<table border="0" width="100%">
+<table style="border:0;width:100%">
   <tr>
     <td>
       <img src="https://github.com/BharatMakwana0000/BharatMakwana0000/blob/main/output-onlinegiftools%20(11).gif" style="height:100px"/>
