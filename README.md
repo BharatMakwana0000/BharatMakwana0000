@@ -1,4 +1,4 @@
-<img href="https://github.com/godkingjay/godkingjay/blob/master/assets/pixel-night-banner.gi7"/>
+![image](https://user-images.githubusercontent.com/120386468/221399835-7781ce54-82ce-4042-9fa4-f1488b1373b6.png)
 <h1 align="center">Hi 👋, I'm BHARAT MAKWANA</h1>
 <h3 align="center">A passionate React-Native developer from India.</h3>
 
